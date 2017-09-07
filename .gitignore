@@ -1,0 +1,7 @@
+.*.swp
+*.pyc
+dist/
+build/
+yolk-portage.egg-info/
+.travis-solo/
+
